@@ -1,0 +1,4 @@
+require '../core/result'
+require '../core/testcase'
+
+my
